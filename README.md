@@ -57,17 +57,17 @@ SSH端口屏蔽：未屏蔽22端口
 节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、德国、阿根廷、土耳其、阿根廷、印度、马来西亚、泰国、菲律宾、俄罗斯                 
 付款方式：支付宝、虚拟币USDT、信用卡         
 套餐价格是否包含手续费：支付宝不包含(大概3%费率)
-注意事项：提前用完流量直接续费/购买相同套餐不会马上重置流量。点【重置】付费重置                
+注意事项：近期套餐不能按月买，最少3个月                
 
 #### 套餐：
 套餐 |  流量 | 价格  
 :-:  | :-: | :-:   
-Mini | 10G/月 | 150/年，可做备用 
-Basic | 50G/月 | 75/季度 
-Silver | 100G/月 | 105/季  
-Platinum | 200G/年 | 60/月  
-Ultimate1 | 300G/年 | 195/季，598/年  
-Ultimate2 | 500G/年 | 285/季，798/年
+Mini | 10G/月 | 150CNY/年
+Basic | 50G/月 | 248CNY/年
+Silver | 100G/月 | 105CNY/季  
+Platinum | 200G/年 | 150CNY/季   
+Ultimate1 | 300G/年 | 195CNY/季
+Ultimate2 | 500G/年 | 285CNY/季
 Team1 | 1T/月 | 510/季度  
 Team2 | 2T/月 | 885/季度 
 
@@ -88,10 +88,9 @@ ChiaCloud是一家CDN优选和国内三网优化直连机场。
 - 需要SS和Vmess等老协议
 
 #### 官网：
-[ChiaCloud机场官网](https://chiacloud.cc/#/register?code=fFiv5t3i)
+[ChiaCloud机场官网](https://www.chiacloud.cc/#/register?code=fFiv5t3i)
 
->开业时间：2021年开的老牌机场         
-老板肉身：海外(确定)         
+>开业时间：2021年开的老牌机场              
 入口 ：CDN优选入口，直连入口。    
 协议：Shadowsocks + Trojan         
 UDP：支持Full-Cone NAT         
