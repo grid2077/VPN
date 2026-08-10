@@ -59,9 +59,9 @@ SSH端口屏蔽：未屏蔽22端口
 Mini | 10G/月 | 150CNY/年
 Basic | 50G/月 | 248CNY/年
 Silver | 100G/月 | 105CNY/季  
-Platinum | 200G/年 | 150CNY/季   
-Ultimate1 | 300G/年 | 195CNY/季
-Ultimate2 | 500G/年 | 285CNY/季
+Platinum | 200G/月 | 150CNY/季   
+Ultimate1 | 300G/月 | 195CNY/季
+Ultimate2 | 500G/月 | 285CNY/季
 Team1 | 1T/月 | 510/季度  
 Team2 | 2T/月 | 885/季度 
 
