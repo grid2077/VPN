@@ -11,11 +11,11 @@
 如果觉得文章有帮助，欢迎 Star，后续会同步机场测速、优惠信息以及线路变化。
 
 # VPN客户端推荐
-- Windows ：[Clash for Windows](https://clashsubs.com/clash-for-windows-tutorial/)
-- MacOS：[ClashX](https://clashmac.com/) | [Surge](https://nssurge.com/)
-- 安卓：[Clash for Android](https://clashandroid.com/)
-- iOS：[Stash - Clash for iOS](https://clashsubs.com/clash-for-ios-two-apps/) | [Surge](https://nssurge.com/)
-- 路由器：OpenWRT的OpenClash | PassWall | MacMini安装Surge
+- Windows ：[Clash for Windows](https://github.com/clash-verge-rev/clash-verge-rev)
+- MacOS：[ClashX](https://github.com/666OS/ClashMac) | [Surge](https://nssurge.com/)
+- 安卓：[Clash for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)
+- iOS：[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | [Surge](https://apps.apple.com/us/app/surge-5/id1442620678)
+- 路由器：MacMini安装Surge
 
 
 # 机场推荐
