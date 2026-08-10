@@ -40,10 +40,8 @@ Kycloud是一家运营很多年老牌IEPL专线中转SS+Vmess协议多入口机�
 #### 官网：
 [kycloud机场官网](https://my.ihcloud.net/aff.php?aff=20683)
 
->开业时间：2017年开的老牌机场         
-老板肉身：海外(确定)         
-入口 ：CDN优选入口，智能接入。       
-过境: IEPL专线         
+>开业时间：2017年开的老牌机场            
+入口 ：CDN优选入口，智能接入。            
 协议：Shadowsocks + Vmess         
 UDP：基本支持Full-Cone NAT         
 客户端数目：不限制         
