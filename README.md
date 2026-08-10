@@ -91,7 +91,7 @@ ChiaCloud是一家CDN优选和国内三网优化直连机场。
 [ChiaCloud机场官网](https://www.chiacloud.cc/#/register?code=fFiv5t3i)
 
 >开业时间：2021年开的老牌机场              
-入口 ：CDN优选入口，直连入口。    
+入口 ：CDN优选入口、国内三网优化直连机场。    
 协议：Shadowsocks + Trojan         
 UDP：支持Full-Cone NAT         
 客户端数目：有
