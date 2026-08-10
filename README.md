@@ -11,6 +11,11 @@
 如果觉得文章有帮助，欢迎 Star，后续会同步机场测速、优惠信息以及线路变化。
 
 # 机场客户端推荐
+Windows：V2rayN
+Mac：Clash、Surge
+IOS：ClashLite、Shadowrocket、Surge 
+安卓：Surfboard、V2rayNG
+路由器：OpenWRT的OpenClash、PassWall、MacMini安装Surge
 
 
 # 机场推荐
