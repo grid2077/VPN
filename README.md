@@ -15,7 +15,7 @@
 - MacOS：[ClashX](https://github.com/666OS/ClashMac) | [Surge](https://nssurge.com/)
 - 安卓：[Clash for Android](https://github.com/MetaCubeX/ClashMetaForAndroid)
 - iOS：[Shadowrocket](https://apps.apple.com/us/app/shadowrocket/id932747118) | [Surge](https://apps.apple.com/us/app/surge-5/id1442620678)
-- 路由器：MacMini安装Surge
+- HomeLab：MacMini安装Surge
 
 
 # 机场推荐
