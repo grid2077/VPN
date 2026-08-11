@@ -38,9 +38,9 @@ UDP：基本支持Full-Cone NAT
 流媒体解锁：TVB/Netflix/BBC/AbemaTV/DMM/hulu(us/jp)/Disney+ Paravi/rakutenTV(jp) 等         
 落地ip数量： 60+         
 ChatGPT/OpenAI解锁: 全解锁         
-大陆外能使用：是，购买套餐包括海外直连节点。新疆也用他家直连试试         
+大陆外能使用：是，包括海外直连节点。      
 墙外新闻网站屏蔽情况：基本未屏蔽         
-SSH端口屏蔽：未屏蔽22端口         
+SSH端口屏蔽：未屏蔽         
 邮件SMTP协议：可接收无法发送，需要配置直连规则         
 节点国家与地区：香港、台湾、韩国、日本、新加坡、美国、英国、巴西、德国、阿根廷、土耳其、阿根廷、印度、马来西亚、泰国、菲律宾、俄罗斯                 
 付款方式：支付宝、虚拟币USDT、信用卡         
@@ -84,9 +84,9 @@ UDP：支持Full-Cone NAT
 流媒体解锁：TVB/Netflix/BBC/AbemaTV/DMM/hulu(us/jp)/Disney+ Paravi/rakutenTV(jp) 等         
 落地ip数量： 30+         
 ChatGPT/OpenAI解锁: 全解锁         
-大陆外能使用：是，购买套餐包括海外直连节点。
+大陆外能使用：是，包括海外直连节点。
 墙外新闻网站屏蔽情况：未屏蔽         
-SSH端口屏蔽：未屏蔽22端口         
+SSH端口屏蔽：未屏蔽         
 邮件SMTP协议：未禁止         
 节点国家与地区：香港、美国、日本、德国、台湾、韩国、新加坡、英国、马来西亚、泰国         
 付款方式：虚拟币USDT         
