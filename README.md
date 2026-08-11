@@ -12,6 +12,9 @@
 - HomeLab：MacMini安装Surge
 
 
+# 自用5年Surge配置文件分享：https://github.com/Grid2077/Surge-Profile
+
+
 # 机场推荐
 
 ## 一：Kycloud机场
