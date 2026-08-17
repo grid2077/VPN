@@ -38,7 +38,7 @@ https://github.com/Grid2077/Surge-Profile
 >开业时间：2021年开的老牌机场              
 入口 ：CDN优选入口、国内三网优化直连机场。    
 协议：Shadowsocks + Trojan         
-UDP：支持Full-Cone NAT         
+UDP：支持 Full-Cone NAT         
 客户端数目：有
 流媒体解锁：TVB/Netflix/BBC/AbemaTV/DMM/hulu(us/jp)/Disney+ Paravi/rakutenTV(jp) 等         
 落地ip数量： 30+         
