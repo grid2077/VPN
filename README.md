@@ -2,7 +2,7 @@
 
 
 
-如果觉得有帮助，欢迎 Star，后续会同步好用机场。
+如果觉得有帮助，欢迎Star，后续会同步好用机场。
 
 # VPN客户端推荐
 - Windows ：[Clash for Windows](https://github.com/clash-verge-rev/clash-verge-rev)
